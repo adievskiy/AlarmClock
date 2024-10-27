@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlarmClock</string>
+    <string name="textAlarmButtonBTN">Установить будильник</string>
+    <string name="textStopButtonBTN">Выключить будильник</string>
+    <string name="textTextAlarmTV">Подъем!</string>
+    <string name="titleMenuExit">Выход</string>
+</resources>
